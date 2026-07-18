@@ -33,7 +33,7 @@
 
 - 🔹 **[A2Z DSA](https://a2zdsa.com/)** (BYTS India) — 15+ RESTful APIs, Redis caching, query optimization → 40% smaller JS payload, faster response times
 - 🔹 **CryptoFlow** — real-time, event-driven crypto analytics using WebSockets + Redis-backed pipelines, sub-second latency at 10K+ daily active users
-- 🔹 **IntelliPlace** — recruitment analytics platform with JWT/RBAC-secured APIs, cut admin effort by 70%, accelerated hiring by 50%
+- 🔹 **[IntelliPlace](https://p-cell-xfji.vercel.app/login)** — recruitment analytics platform with JWT/RBAC-secured APIs, cut admin effort by 70%, accelerated hiring by 50%
 - 🔹 **MedGenX** — GAN-based synthetic medical data generation with Explainable AI, 25% lower FID
 
 ## 🌐 Connect with me:
