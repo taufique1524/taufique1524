@@ -1,104 +1,113 @@
-# 👋 Hey, I'm Taufique Anwar Khan!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Taufique+Anwar+Khan;Full-Stack+Developer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%92%BB;Codeforces+Expert+%7C+LeetCode+Knight" alt="Typing SVG" />
+</div>
 
-I'm a full-stack Software Developer building scalable web platforms and exploring **Generative AI, Explainable AI, and Computer Vision**. Currently pursuing B.Tech in Electronics & Communication Engineering at **IIIT Allahabad** (CGPA: 9.72).
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-**Codeforces Expert** | **LeetCode Knight** | **CodeChef 4-Star** | Selected for **Amazon ML Summer School 2025 & 2026**
+<h3 align="center">🚀 Full-Stack Developer & Competitive Programmer from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taufique1524&theme=tokyonight&hide_border=true" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=taufique1524&label=Profile%20views&color=0e75b6&style=flat" alt="taufique1524" />
+  <img src="https://img.shields.io/github/followers/taufique1524?label=Followers&style=social" alt="followers" />
+</div>
+
+## 🎯 About Me:
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+🎓 **B.Tech, Electronics & Communication Engineering** at **IIIT Allahabad** (CGPA: 9.72)
+💼 **Software Development Intern** at **BYTS India** — built full-stack platforms serving real users
+💡 Passionate about **scalable backend systems, real-time platforms, and Generative AI**
+🌱 Currently exploring **Explainable AI (XAI) and Computer Vision**
+🏆 **Codeforces Expert** | **LeetCode Knight** | **CodeChef 4-Star**
+⚡ Fun fact: **Selected for Amazon ML Summer School two years in a row (2025 & 2026)!**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 💼 Experience & Projects Snapshot
+
+- 🔹 **A2Z DSA** (BYTS India) — interview-prep platform, 450+ curated problems, 15+ RESTful APIs, 40% smaller JS payload
+- 🔹 **IntelliPlace** — recruitment analytics platform, cut admin effort by 70%, accelerated hiring by 50%
+- 🔹 **MedGenX** — GAN-based synthetic medical data generation with Explainable AI, 25% lower FID
+- 🔹 **CryptoFlow** — real-time crypto analytics platform, sub-second latency, 10K+ daily active users
+
+## 🌐 Connect with me:
+
+<div align="center">
+  <a href="https://linkedin.com/in/taufique-khan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:taufiquekhan786.edu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/taufique1524" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+## 🐾 Animal Farming
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/taufique1524"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
+
+## 🛠️ Tech Stack:
+
+<b>🖥️ Backend Technologies</b>
+<br>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,java,cpp,c,python" />
 </p>
 
----
-
-## 💼 Experience
-
-**Software Development Intern — BYTS India** (May 2026 – June 2026)
-- Built **A2Z DSA**, a full-stack interview prep platform with 450+ curated coding problems, personalized learning paths, revision scheduling, progress tracking, notes, and leaderboards.
-- Shipped 15+ RESTful APIs (auth, user management, progress tracking, search, bookmarks, analytics) using Node.js, Express.js, MongoDB, Redis, and JWT.
-- Cut initial JS payload by **40%** via code splitting, lazy loading, Redis caching, and MongoDB query optimization.
-
----
-
-## 🚀 Featured Projects
-
-### [IntelliPlace — Intelligent Recruitment Analytics Platform](#)
-`Node.js` `Express.js` `MongoDB` `JWT` `REST APIs`
-- Automated placement workflows, cutting administrative effort by **70%**
-- Built real-time analytics dashboards + automated eligibility screening, accelerating hiring by **50%** while securing 1,000+ student profiles via JWT & RBAC
-- Optimized MongoDB queries, integrated Cloudinary/Nodemailer → **35%** faster responses, **90%** less manual communication
-
-### [MedGenX — Explainable Generative AI for Healthcare](#)
-`Python` `PyTorch` `Generative AI` `XAI` `Computer Vision`
-- Built GAN-based synthetic medical data pipelines, reducing class imbalance by **40%**
-- Integrated Explainable AI, achieving **25%** lower FID, **15%** better MSE, **30%** fewer mode-collapse instances
-
-### [CryptoFlow — Real-Time Market Intelligence Platform](#)
-`Next.js` `Node.js` `MongoDB` `Redis` `WebSockets`
-- Delivered real-time crypto analytics, portfolio tracking, and event-driven insights via WebSockets + scalable REST APIs
-- Optimized Redis-backed pipelines for sub-second latency, supporting **10K+ daily active users**
-
----
-
-## 💻 Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WEBSOCKETS-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### Databases & Caching
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### AI / ML
-![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Generative AI](https://img.shields.io/badge/GENERATIVE_AI-4B0082?style=for-the-badge)
-![XAI](https://img.shields.io/badge/EXPLAINABLE_AI-6A0DAD?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/COMPUTER_VISION-1E3A8A?style=for-the-badge)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Anaconda](https://img.shields.io/badge/ANACONDA-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
-### Core CS
-![DSA](https://img.shields.io/badge/DATA_STRUCTURES_%26_ALGORITHMS-4B0082?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-006400?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-8B0000?style=for-the-badge)
-![OS](https://img.shields.io/badge/OPERATING_SYSTEMS-2F4F4F?style=for-the-badge)
-![Computer Networks](https://img.shields.io/badge/COMPUTER_NETWORKS-006400?style=for-the-badge)
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taufique1524&theme=tokyonight&no-frame=true&row=1&column=7" />
+<b>🗄️ Databases</b>
+<br>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
 </p>
 
----
+<b>🤖 AI / ML</b>
+<br>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch,python" />
+</p>
 
-## 🎯 Achievements
+<b>🌐 Frontend & Others</b>
+<br>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,postman,git,githubactions,vscode,anaconda" />
+</p>
+
+## 📊 GitHub Analytics:
+
+<table>
+<tr>
+<td align="center"><img width="500" src="https://github-readme-stats.vercel.app/api?username=taufique1524&show_icons=true&theme=dracula&border_color=61dafb&include_all_commits=true" /></td>
+<td align="center"><img width="375" src="https://github-readme-stats.vercel.app/api/top-langs?username=taufique1524&show_icons=true&locale=en&layout=compact&theme=dracula&border_color=61dafb" alt="taufique1524" /></td>
+<td align="center"><img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=taufique1524&theme=dracula&border=61DAFB&fire=DDB80F" /></td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taufique1524&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+</div>
+
+## 🏆 GitHub Achievements:
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=taufique1524&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=1" width="100%"/>
+</div>
+
+## 🎯 Competitive Programming & Awards
+
 - 🏅 **Codeforces Expert** — Global Rank 507, Round 954 (Div. 3)
 - 🏅 **LeetCode Knight** — Global Rank 891, Weekly Contest 352
 - 🏅 **CodeChef 4-Star** — Global Rank 186, Starters 140 (Div. 2)
@@ -110,15 +119,16 @@ I'm a full-stack Software Developer building scalable web platforms and explorin
 - 🏆 **HackVega 2026** — Finalist, Top 1.9% of 47,000+ participants
 - 📝 **Problem Setter** at GeeksforGeeks
 
----
+## 📈 Contribution Stats:
 
-## 🎓 Leadership
-- **Executive, Placement Cell** — IIIT Allahabad (July 2025 – 2026)
-- **Senator, Students' Gymkhana** — IIIT Allahabad (April 2023 – 2024)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=taufique1524&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="contributor stats"/>
+</div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taufique-khan)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taufiquekhan786.edu@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taufique1524)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote"/>
+</div>
