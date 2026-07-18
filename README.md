@@ -17,7 +17,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🎓 **B.Tech, Electronics & Communication Engineering** at **IIIT Allahabad** (CGPA: 9.72)
+🎓 **B.Tech, Electronics & Communication Engineering** at **IIIT Allahabad** (CGPA: 8.80)
 💼 **Software Development Intern** at **BYTS India** — built full-stack platforms serving real users
 💡 Passionate about **scalable backend systems, real-time platforms, and Generative AI**
 🌱 Currently exploring **Explainable AI (XAI) and Computer Vision**
