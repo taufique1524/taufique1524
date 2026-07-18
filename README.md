@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Taufique+Anwar+Khan;Backend+%26+Distributed+Systems+Engineer+%F0%9F%9A%80;System+Design+%7C+Kafka+%7C+Redis+%7C+LLD;Codeforces+Expert+%7C+LeetCode+Knight" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Taufique+Khan;Backend+%26+Distributed+Systems+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🎓 **B.Tech, Electronics & Communication Engineering** at **IIIT Allahabad** (CGPA: 9.72)
+🎓 **B.Tech, Electronics & Communication Engineering** at **IIIT Allahabad** (CGPA: 8.8)
 💼 **Software Development Intern** at **BYTS India** — designed and shipped backend systems serving real users
 🧠 Deep interest in **System Design** — message queues, load balancing, rate limiting, and Low-Level Design (LLD) patterns
 ⚙️ Hands-on with **Kafka, Redis, and distributed system building blocks** to build systems that scale
