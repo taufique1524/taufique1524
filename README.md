@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Taufique+Anwar+Khan;Full-Stack+Developer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%92%BB;Codeforces+Expert+%7C+LeetCode+Knight" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Taufique+Anwar+Khan;Backend+%26+Distributed+Systems+Engineer+%F0%9F%9A%80;System+Design+%7C+Kafka+%7C+Redis+%7C+LLD;Codeforces+Expert+%7C+LeetCode+Knight" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<h3 align="center">🚀 Full-Stack Developer & Competitive Programmer from India 🇮🇳</h3>
+<h3 align="center">🚀 Backend Engineer building scalable, distributed systems from India 🇮🇳</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=taufique1524&label=Profile%20views&color=0e75b6&style=flat" alt="taufique1524" />
@@ -17,10 +17,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🎓 **B.Tech, Electronics & Communication Engineering** at **IIIT Allahabad** (CGPA: 8.80)
-💼 **Software Development Intern** at **BYTS India** — built full-stack platforms serving real users
-💡 Passionate about **scalable backend systems, real-time platforms, and Generative AI**
-🌱 Currently exploring **Explainable AI (XAI) and Computer Vision**
+🎓 **B.Tech, Electronics & Communication Engineering** at **IIIT Allahabad** (CGPA: 9.72)
+💼 **Software Development Intern** at **BYTS India** — designed and shipped backend systems serving real users
+🧠 Deep interest in **System Design** — message queues, load balancing, rate limiting, and Low-Level Design (LLD) patterns
+⚙️ Hands-on with **Kafka, Redis, and distributed system building blocks** to build systems that scale
+🌱 Currently exploring **event-driven architectures and Explainable AI**
 🏆 **Codeforces Expert** | **LeetCode Knight** | **CodeChef 4-Star**
 ⚡ Fun fact: **Selected for Amazon ML Summer School two years in a row (2025 & 2026)!**
 
@@ -30,10 +31,10 @@
 
 ## 💼 Experience & Projects Snapshot
 
-- 🔹 **A2Z DSA** (BYTS India) — interview-prep platform, 450+ curated problems, 15+ RESTful APIs, 40% smaller JS payload
-- 🔹 **IntelliPlace** — recruitment analytics platform, cut admin effort by 70%, accelerated hiring by 50%
+- 🔹 **A2Z DSA** (BYTS India) — 15+ RESTful APIs, Redis caching, query optimization → 40% smaller JS payload, faster response times
+- 🔹 **CryptoFlow** — real-time, event-driven crypto analytics using WebSockets + Redis-backed pipelines, sub-second latency at 10K+ daily active users
+- 🔹 **IntelliPlace** — recruitment analytics platform with JWT/RBAC-secured APIs, cut admin effort by 70%, accelerated hiring by 50%
 - 🔹 **MedGenX** — GAN-based synthetic medical data generation with Explainable AI, 25% lower FID
-- 🔹 **CryptoFlow** — real-time crypto analytics platform, sub-second latency, 10K+ daily active users
 
 ## 🌐 Connect with me:
 
@@ -68,10 +69,24 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,java,cpp,c,python" />
 </p>
 
-<b>🗄️ Databases</b>
+<b>🗄️ Databases & Caching</b>
 <br>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
+</p>
+
+<b>🏗️ System Design & Distributed Systems</b>
+<br>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis,docker,kubernetes,nginx" />
+</p>
+<p align="left">
+<img src="https://img.shields.io/badge/ZOOKEEPER-D22128?style=for-the-badge&logo=apachezookeeper&logoColor=white" />
+<img src="https://img.shields.io/badge/LOAD_BALANCING-2F4F4F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RATE_LIMITING-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLD_%26_DESIGN_PATTERNS-1E3A8A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HIGH_LEVEL_DESIGN-4B0082?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DISTRIBUTED_ID_GEN_(SNOWFLAKE)-006400?style=for-the-badge" />
 </p>
 
 <b>🤖 AI / ML</b>
